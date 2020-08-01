@@ -1,0 +1,4 @@
+﻿  Q3.cpp
+d:\visual studio projects\cyberconnect2 test\cyberconnect2 test\src\q3.cpp(34): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\cyberconnect2 test\cyberconnect2 test\src\q3.cpp(42): warning C4018: '<': signed/unsigned mismatch
+  CyberConnect2 test.vcxproj -> D:\Visual Studio Projects\CyberConnect2 test\Debug\CyberConnect2 test.exe
